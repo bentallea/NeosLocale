@@ -1,5 +1,8 @@
 # Neos Locale
-This repository contains the locale assets for the core UI of Neos VR (www.neos.com) and allow anyone to contribute translations. The contents of this repository will be periodically merged with the public build released on Steam (https://store.steampowered.com/app/740250/Neos_VR/) and other platforms.
+This repository contains the locale assets for the core UI of Neos VR (www.neos.com) and allow anyone to contribute translations. The contents of this repository will be periodically merged with the public build released on Steam (https://store.steampowered.com/app/740250/Neos_VR/) and other platforms. 
+
+# WARNING
+This branch is intended as a base for other users. This branch will not be merged into the Master Branch unless requested by Frooxius. Do not merge back into this branch. if you are contributing a language, see below, and merge directly into the Frooxius master branch.
 
 # How To Contribute
 If you'd like to contribute translations, create a branch of fork of the repository, make the changes and once they are ready to be merged create a Pull Request, so the contributions can be checked and merged. You don't need to translate everything at once, if you cover part of the UI, the changes can be merged, with more translations coming later.
